@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e69c8f6c-0b86-4641-81f8-8d82b223d44f" name="Default Changelist" comment="Added 4 features so far" />
+    <list default="true" id="e69c8f6c-0b86-4641-81f8-8d82b223d44f" name="Default Changelist" comment="moved code to package" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
